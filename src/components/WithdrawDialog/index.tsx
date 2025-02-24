@@ -14,7 +14,6 @@ import {
 import { useForm } from "react-hook-form";
 import { Button } from "@/components/ui/button";
 import useGetUser from "@/hooks/useGetUser";
-import { z } from "zod";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { useAppDispatch } from "@/redux/hooks";
 import { withdraw } from "@/redux/users/usersSlice";

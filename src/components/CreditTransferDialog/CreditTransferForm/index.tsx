@@ -3,7 +3,6 @@ import { Label } from "@/components/ui/label";
 import CurrencySelect from "@/components/inputs/CurrencySelect";
 import UserSelect from "@/components/inputs/UserSelect";
 import AmountInput from "@/components/inputs/AmountInput";
-import { useFormContext } from "react-hook-form";
 import useGetUser from "@/hooks/useGetUser";
 import { User } from "@/lib/types";
 
@@ -14,7 +13,6 @@ interface CreditTransferFormProps {
 export default function CreditTransferForm({
   userId,
 }: CreditTransferFormProps) {
-  const form = useFormContext();
   const user = useGetUser(userId);
 
   return (
