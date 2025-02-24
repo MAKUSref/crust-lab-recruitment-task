@@ -1,0 +1,202 @@
+[
+  {
+    "id": "bb268884106a",
+    "name": "John Doe",
+    "avatar": "https://i.pravatar.cc/150?img=8",
+    "balance": {
+      "PLN": 102.10,
+      "USD": 0.20,
+      "EUR": 5.00
+    }
+  },
+  {
+    "id": "19bcca993676",
+    "name": "Alice Smith",
+    "avatar": "https://i.pravatar.cc/150?img=5",
+    "balance": {
+      "PLN": 50.75,
+      "USD": 10.00,
+      "EUR": 3.20
+    }
+  },
+  {
+    "id": "61478f5e3329",
+    "name": "Bob Johnson",
+    "avatar": "https://i.pravatar.cc/150?img=7",
+    "balance": {
+      "PLN": 200.00,
+      "USD": 5.50,
+      "EUR": 0.00
+    }
+  },
+  {
+    "id": "553e8ee0e7a7",
+    "name": "Emma Brown",
+    "avatar": "https://i.pravatar.cc/150?img=9",
+    "balance": {
+      "PLN": 30.40,
+      "USD": 15.75,
+      "EUR": 8.50
+    }
+  },
+  {
+    "id": "5df0e5f002b9",
+    "name": "Michael Davis",
+    "avatar": "https://i.pravatar.cc/150?img=11",
+    "balance": {
+      "PLN": 5.20,
+      "USD": 2.50,
+      "EUR": 12.00
+    }
+  },
+  {
+    "id": "e90da3c1a8b7",
+    "name": "Sophia Wilson",
+    "avatar": "https://i.pravatar.cc/150?img=10",
+    "balance": {
+      "PLN": 78.00,
+      "USD": 0.00,
+      "EUR": 25.30
+    }
+  },
+  {
+    "id": "827f21dca910",
+    "name": "Daniel Martinez",
+    "avatar": "https://i.pravatar.cc/150?img=12",
+    "balance": {
+      "PLN": 300.00,
+      "USD": 50.20,
+      "EUR": 100.00
+    }
+  },
+  {
+    "id": "ed2d7e727d74",
+    "name": "Olivia Taylor",
+    "avatar": "https://i.pravatar.cc/150?img=1",
+    "balance": {
+      "PLN": 90.00,
+      "USD": 5.00,
+      "EUR": 10.75
+    }
+  },
+  {
+    "id": "90704d1b6d6f",
+    "name": "James Anderson",
+    "avatar": "https://i.pravatar.cc/150?img=13",
+    "balance": {
+      "PLN": 10.00,
+      "USD": 1.00,
+      "EUR": 2.50
+    }
+  },
+  {
+    "id": "1af03540bc0a",
+    "name": "Isabella Thomas",
+    "avatar": "https://i.pravatar.cc/150?img=16",
+    "balance": {
+      "PLN": 150.25,
+      "USD": 0.75,
+      "EUR": 50.00
+    }
+  },
+  {
+    "id": "d57b09533ea7",
+    "name": "Lucas White",
+    "avatar": "https://i.pravatar.cc/150?img=15",
+    "balance": {
+      "PLN": 99.90,
+      "USD": 8.60,
+      "EUR": 12.25
+    }
+  },
+  {
+    "id": "f7817dc89a3c",
+    "name": "Charlotte Harris",
+    "avatar": "https://i.pravatar.cc/150?img=21",
+    "balance": {
+      "PLN": 500.00,
+      "USD": 100.00,
+      "EUR": 250.00
+    }
+  },
+  {
+    "id": "0020399eefb5",
+    "name": "Ethan Clark",
+    "avatar": "https://i.pravatar.cc/150?img=52",
+    "balance": {
+      "PLN": 20.00,
+      "USD": 3.25,
+      "EUR": 1.75
+    }
+  },
+  {
+    "id": "f51d7222d15e",
+    "name": "Mia Lewis",
+    "avatar": "https://i.pravatar.cc/150?img=47",
+    "balance": {
+      "PLN": 78.50,
+      "USD": 12.10,
+      "EUR": 5.30
+    }
+  },
+  {
+    "id": "a0604745d589",
+    "name": "Benjamin Walker",
+    "avatar": "https://i.pravatar.cc/150?img=58",
+    "balance": {
+      "PLN": 44.00,
+      "USD": 7.00,
+      "EUR": 6.40
+    }
+  },
+  {
+    "id": "bbb56ed98ba5",
+    "name": "Ava Scott",
+    "avatar": "https://i.pravatar.cc/150?img=38",
+    "balance": {
+      "PLN": 88.50,
+      "USD": 4.25,
+      "EUR": 9.80
+    }
+  },
+  {
+    "id": "534ef06565ef",
+    "name": "Henry King",
+    "avatar": "https://i.pravatar.cc/150?img=57",
+    "balance": {
+      "PLN": 220.75,
+      "USD": 6.50,
+      "EUR": 15.20
+    }
+  },
+  {
+    "id": "5c966483ff2e",
+    "name": "Ella Green",
+    "avatar": "https://i.pravatar.cc/150?img=31",
+    "balance": {
+      "PLN": 134.00,
+      "USD": 9.00,
+      "EUR": 20.00
+    }
+  },
+  {
+    "id": "c487800e7d80",
+    "name": "Noah Hall",
+    "avatar": "https://i.pravatar.cc/150?img=60",
+    "balance": {
+      "PLN": 76.50,
+      "USD": 14.20,
+      "EUR": 30.00
+    }
+  },
+  {
+    "id": "2c176e2c2ad4",
+    "name": "Lily Allen",
+    "avatar": "https://i.pravatar.cc/150?img=30",
+    "balance": {
+      "PLN": 250.00,
+      "USD": 20.00,
+      "EUR": 45.50
+    }
+  }
+]
